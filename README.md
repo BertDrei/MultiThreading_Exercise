@@ -10,4 +10,4 @@ To run the program, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/DreiBert/MultiThreading_Exercise.git
+   git clone https://github.com/BertDrei/MultiThreading_Exercise.git
